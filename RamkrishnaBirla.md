@@ -17,7 +17,7 @@ link https://youtu.be/udExMlaR_nA?si=_Ozq0hj2jXvHvCJQ
 
 
 ## Day 2
-  
+August/29/2023
 ### Coding question in codeforces
 - Question 1 link - https://codeforces.com/contest/1850/problem/C <br>
   submission link - https://codeforces.com/contest/1850/submission/221044710
