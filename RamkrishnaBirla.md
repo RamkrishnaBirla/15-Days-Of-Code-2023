@@ -17,7 +17,7 @@ link https://youtu.be/udExMlaR_nA?si=_Ozq0hj2jXvHvCJQ
 
 
 ## Day 2
-August/29/2023
+August/30/2023
 ### Coding question in codeforces
 - Question 1 link - https://codeforces.com/contest/1850/problem/C <br>
   submission link - https://codeforces.com/contest/1850/submission/221044710
@@ -31,3 +31,19 @@ August/29/2023
   submission link - https://codeforces.com/contest/750/submission/221084639
 - Question 6 link - https://codeforces.com/contest/888/problem/A <br>
   submission link - https://codeforces.com/contest/888/submission/221156381
+
+
+
+## Day 3
+
+August/31/2023
+  
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/1850/problem/A <br>
+  submission link - https://codeforces.com/contest/1850/submission/221262642
+- Question 2 link - https://codeforces.com/contest/1829/problem/A <br>
+  submission link - https://codeforces.com/contest/1829/submission/221263686
+- Question 3 link - https://codeforces.com/contest/1703/problem/A <br>
+  submission link - https://codeforces.com/contest/1703/submission/221274597
+- Question 4 link - https://codeforces.com/contest/1791/problem/B <br>
+  submission link - https://codeforces.com/contest/1791/submission/221349876
