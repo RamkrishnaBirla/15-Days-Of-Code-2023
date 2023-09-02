@@ -61,3 +61,27 @@ September/01/2023
   submission link - https://codeforces.com/contest/378/submission/221419190
 - Question 3 link - https://codeforces.com/contest/509/problem/A <br>
   submission link - https://codeforces.com/contest/509/submission/221421131
+
+
+
+  ## Day 5
+September/02/2023
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/486/problem/A <br>
+  submission link - https://codeforces.com/contest/486/submission/221517749
+- Question 2 link - https://codeforces.com/contest/281/problem/A <br>
+  submission link - https://codeforces.com/contest/281/submission/221518379
+- Question 3 link - https://codeforces.com/contest/155/problem/A  <br>
+  submission link - https://codeforces.com/contest/155/submission/221543879
+- Question 4 link - https://codeforces.com/contest/546/problem/A <br>
+  submission link - https://codeforces.com/contest/546/submission/221552494
+- Question 5 link - https://codeforces.com/contest/581/problem/A <br>
+  submission link - https://codeforces.com/contest/581/submission/221553582
+- Question 6 link - https://codeforces.com/contest/617/problem/A <br>
+  submission link - https://codeforces.com/contest/617/submission/221554671
+- Question 7 link - https://codeforces.com/contest/620/problem/A <br>
+  submission link - https://codeforces.com/contest/620/submission/221556119
+- Question 8 link - https://codeforces.com/contest/678/problem/A <br>
+  submission link - https://codeforces.com/contest/678/submission/221557898
+- Question 9 link - https://codeforces.com/contest/746/problem/A <br>
+  submission link - https://codeforces.com/contest/746/submission/221561022
