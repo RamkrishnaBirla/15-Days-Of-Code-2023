@@ -47,3 +47,17 @@ August/31/2023
   submission link - https://codeforces.com/contest/1703/submission/221274597
 - Question 4 link - https://codeforces.com/contest/1791/problem/B <br>
   submission link - https://codeforces.com/contest/1791/submission/221349876
+
+
+
+  ## Day 4
+
+September/01/2023
+  
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/214/problem/A <br>
+  submission link - https://codeforces.com/contest/214/submission/221416423
+- Question 2 link - https://codeforces.com/contest/378/problem/A <br>
+  submission link - https://codeforces.com/contest/378/submission/221419190
+- Question 3 link - https://codeforces.com/contest/509/problem/A <br>
+  submission link - https://codeforces.com/contest/509/submission/221421131
