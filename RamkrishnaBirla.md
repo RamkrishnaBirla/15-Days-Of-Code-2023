@@ -1,9 +1,7 @@
 # Ramkrishna Birla - Vision 15 Days of Code Log
 
 ## Day 1
-
 August/29/2023
-  
 ### Coding question in codeforces
 - Question 1 link - https://codeforces.com/contest/1829/problem/B <br>
   submission link - https://codeforces.com/contest/1829/submission/220935167
@@ -35,9 +33,7 @@ August/30/2023
 
 
 ## Day 3
-
 August/31/2023
-  
 ### Coding question in codeforces
 - Question 1 link - https://codeforces.com/contest/1850/problem/A <br>
   submission link - https://codeforces.com/contest/1850/submission/221262642
@@ -51,9 +47,7 @@ August/31/2023
 
 
   ## Day 4
-
 September/01/2023
-  
 ### Coding question in codeforces
 - Question 1 link - https://codeforces.com/contest/214/problem/A <br>
   submission link - https://codeforces.com/contest/214/submission/221416423
@@ -85,3 +79,15 @@ September/02/2023
   submission link - https://codeforces.com/contest/678/submission/221557898
 - Question 9 link - https://codeforces.com/contest/746/problem/A <br>
   submission link - https://codeforces.com/contest/746/submission/221561022
+
+
+
+## Day 6
+September/03/2023
+### Coding question in codeforces
+- Question 1 link -https://codeforces.com/problemset/problem/832/A <br>
+  submission link - https://codeforces.com/problemset/submission/832/221731868
+- Question 2 link -https://codeforces.com/problemset/problem/1206/A <br>
+  submission link - https://codeforces.com/problemset/submission/1206/221734792 (failed)
+
+  With this I was travelling whole day from my village to Bhopal. So, I was unable to extend today's work...
