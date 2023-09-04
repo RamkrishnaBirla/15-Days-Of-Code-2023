@@ -91,3 +91,23 @@ September/03/2023
   submission link - https://codeforces.com/problemset/submission/1206/221734792 (failed)
 
 - With this I was travelling whole day from my village to Bhopal. So, I was unable to extend today's work...
+
+
+
+  ## Day 7
+September/04/2023
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/problemset/problem/228/A <br>
+  submission link - https://codeforces.com/problemset/submission/228/221841598
+- Question 2 link - https://codeforces.com/problemset/problem/236/A <br>
+  submission link - https://codeforces.com/problemset/submission/236/221843557
+- Question 3 link - https://codeforces.com/problemset/problem/282/A  <br>
+  submission link - https://codeforces.com/problemset/submission/282/221848318
+- Question 4 link - https://codeforces.com/problemset/problem/1234/A  <br>
+  submission link - https://codeforces.com/problemset/submission/1234/221850246
+- Question 5 link - https://codeforces.com/problemset/problem/1335/A <br>
+  submission link - https://codeforces.com/problemset/submission/1335/221851410
+- Question 6 link - https://codeforces.com/problemset/problem/1367/B <br>
+  submission link - https://codeforces.com/problemset/submission/1367/221852657
+- Question 7 link - https://codeforces.com/problemset/problem/1206/A <br>
+  submission link - https://codeforces.com/problemset/submission/1206/221854406
