@@ -111,3 +111,20 @@ September/04/2023
   submission link - https://codeforces.com/problemset/submission/1367/221852657
 - Question 7 link - https://codeforces.com/problemset/problem/1206/A <br>
   submission link - https://codeforces.com/problemset/submission/1206/221854406
+
+
+
+    ## Day 8
+September/05/2023
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/6/problem/A <br>
+  submission link - https://codeforces.com/contest/6/submission/221953121
+- Question 2 link - https://codeforces.com/contest/1374/problem/B <br>
+  submission link - https://codeforces.com/contest/1374/submission/221961339
+- Question 3 link - https://codeforces.com/contest/1742/problem/C  <br>
+  submission link - https://codeforces.com/contest/1742/submission/221966972
+- Question 4 link - https://codeforces.com/contest/44/problem/A  <br>
+  submission link - https://codeforces.com/contest/44/submission/221981279
+- Question 5 link - https://codeforces.com/contest/45/problem/A <br>
+  submission link - https://codeforces.com/contest/45/submission/221982420
+
