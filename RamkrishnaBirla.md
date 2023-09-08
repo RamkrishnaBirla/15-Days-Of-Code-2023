@@ -130,7 +130,7 @@ September/05/2023
 
 
 
-      ## Day 10
+  ## Day 10
 September/07/2023
 ### Coding question in codeforces
 - Question 1 link - https://codeforces.com/contest/1351/problem/B <br>
