@@ -130,6 +130,10 @@ September/05/2023
 
 
 
+## Day 9
+September/06/2023
+No coding related work as I went out of college after class and then attend janmashtami funnction.
+
   ## Day 10
 September/07/2023
 ### Coding question in codeforces
