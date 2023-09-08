@@ -128,3 +128,19 @@ September/05/2023
 - Question 5 link - https://codeforces.com/contest/45/problem/A <br>
   submission link - https://codeforces.com/contest/45/submission/221982420
 
+
+
+      ## Day 10
+September/07/2023
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/1351/problem/B <br>
+  submission link - https://codeforces.com/contest/1351/submission/222130661
+- Question 2 link - https://codeforces.com/contest/460/problem/A <br>
+  submission link - https://codeforces.com/contest/460/submission/222264570
+- Question 3 link - https://codeforces.com/contest/914/problem/A  <br>
+  submission link - https://codeforces.com/contest/914/submission/222361901 (failed)
+- Question 4 link - https://codeforces.com/contest/267/problem/A  <br>
+  submission link - https://codeforces.com/contest/267/submission/222214403 (failed)
+
+
+
