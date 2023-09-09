@@ -147,4 +147,22 @@ September/07/2023
   submission link - https://codeforces.com/contest/267/submission/222214403 (failed)
 
 
+    ## Day 11
+September/08/2023
+### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/266/problem/A <br>
+  submission link - https://codeforces.com/contest/266/submission/222419222
+- Question 2 link - https://codeforces.com/contest/914/problem/A <br>
+  submission link - https://codeforces.com/contest/914/submission/222361901
+- Question 3 link - https://codeforces.com/contest/653/problem/A  <br>
+  submission link - https://codeforces.com/contest/653/submission/222404392
 
+  ### Started App Development
+  Android Studio setup + Setup Emulator + learn how to run any project on real/virtual + android Layout files and xml
+
+
+    ## Day 12
+September/09/2023
+  ### App Development continuation....
+  Understanding xml syntax + workin with xml + Building layout of BMI app
+  
