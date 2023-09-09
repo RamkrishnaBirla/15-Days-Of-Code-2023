@@ -158,11 +158,11 @@ September/08/2023
   submission link - https://codeforces.com/contest/653/submission/222404392
 
   ### Started App Development
-  Android Studio setup + Setup Emulator + learn how to run any project on real/virtual + android Layout files and xml
+  lectures on- Android Studio setup + Setup Emulator + learn how to run any project on real/virtual + android Layout files and xml
 
 
     ## Day 12
 September/09/2023
   ### App Development continuation....
-  Understanding xml syntax + workin with xml + Building layout of BMI app
+  lectures on- Understanding xml syntax + working with xml + Building layout of BMI app
   
