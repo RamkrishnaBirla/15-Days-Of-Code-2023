@@ -165,4 +165,27 @@ September/08/2023
 September/09/2023
   ### App Development continuation....
   lectures on- Understanding xml syntax + working with xml + Building layout of BMI app
+
+  ## Day 13
+September/10/2023
+  ### App Development continuation....
+  lectures on- importing images + java files and programming languages + starting to program
+
+   ## Day 14
+September/11/2023
+  ### App Development continuation....
+  lectures on- programming concept
   
+
+  ## Day 15
+September/12/2023
+  ### Coding question in codeforces
+- Question 1 link - https://codeforces.com/contest/984/problem/A <br>
+  submission link - https://codeforces.com/contest/984/submission/223125209
+- Question 2 link - https://codeforces.com/contest/965/problem/A <br>
+  submission link - https://codeforces.com/contest/965/submission/223127547
+- Question 3 link - https://codeforces.com/contest/977/problem/A  <br>
+  submission link - https://codeforces.com/contest/977/submission/223128228
+
+  function lecture- https://youtu.be/Hp7c2ecLzWo?si=J06CApfNPWT4NebJ
+
